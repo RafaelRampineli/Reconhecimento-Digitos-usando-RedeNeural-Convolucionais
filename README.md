@@ -20,8 +20,11 @@ $ python train.py
 # VERSÕES:
 
 - Keras: 2.09
+
 $ pip install keras==2.09
 - Tensorflow: 1.13.2
+
 $ pip install tensorflow==1.13.2
 - scipy: 1.2.1
+
 $ pip install scipy==1.2.1
