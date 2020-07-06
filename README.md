@@ -17,6 +17,10 @@ Obs.: Utilizar GPU para o treinamento do modelo. Sem GPU o modelo pode levar hor
 
 $ python train.py
 
+- Execução da app:
+
+$ python app.py
+
 # VERSÕES:
 
 - Keras: 2.09
